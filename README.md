@@ -1,21 +1,11 @@
 # Penguin Wallet · ZDOS Micro Panel
 
-Interfaccia wallet-style originale con logo pinguino, pensata come micro pannello di distribuzione e accesso ai progetti ZDOS.
+Pannello wallet statico (HTML) con RPC Solana + Polygon.
 
-## Caratteristiche
-- Estetica ispirata ai wallet moderni (dark theme, layout compatto)
-- Logo pinguino 🐧
-- RPC reali e compatibili:
-  - Solana: `https://api.mainnet-beta.solana.com`
-  - Polygon: `https://polygon-rpc.com`
-- Link diretti a Super Pannello, repo ZDOS e token $DSN
-- Pronto per GitHub Pages
+## Metti online
 
-## Deploy
-Abilita GitHub Pages sul branch `main` (root) per pubblicarlo su:
-`https://high-cde.github.io/penguin-wallet/`
+1. Vai su **Settings → Pages**
+2. Source: Deploy from a branch → `main` / root
+3. Il sito sarà disponibile su `https://high-cde.github.io/penguin-wallet/`
 
-## Note
-- Interfaccia originale, non è un clone del codice MetaMask.
-- Livello laboratorio M1.
-- Ideale come punto di ingresso leggero all'ecosistema ZDOS.
+Già collegato all'ecosistema ZDOS e ad Æsir.
